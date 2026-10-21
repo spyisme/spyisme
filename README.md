@@ -5,6 +5,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=spyisme&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=spyisme&icon=0)](https://visitcount.itsvg.in)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=spyisme.spyisme)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
